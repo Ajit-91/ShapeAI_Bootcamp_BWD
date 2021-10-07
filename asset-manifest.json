@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ShapeAI_Bootcamp_ReactJS/static/js/main.56971fb2.chunk.js",
-    "main.js.map": "/ShapeAI_Bootcamp_ReactJS/static/js/main.56971fb2.chunk.js.map",
+    "main.js": "/ShapeAI_Bootcamp_ReactJS/static/js/main.35b62bfc.chunk.js",
+    "main.js.map": "/ShapeAI_Bootcamp_ReactJS/static/js/main.35b62bfc.chunk.js.map",
     "runtime-main.js": "/ShapeAI_Bootcamp_ReactJS/static/js/runtime-main.d4048c48.js",
     "runtime-main.js.map": "/ShapeAI_Bootcamp_ReactJS/static/js/runtime-main.d4048c48.js.map",
     "static/js/2.4040f136.chunk.js": "/ShapeAI_Bootcamp_ReactJS/static/js/2.4040f136.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.d4048c48.js",
     "static/js/2.4040f136.chunk.js",
-    "static/js/main.56971fb2.chunk.js"
+    "static/js/main.35b62bfc.chunk.js"
   ]
 }
